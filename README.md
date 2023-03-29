@@ -1,4 +1,4 @@
-V<h1 align="left">Hi 👋, I'm Vasa</h1>
+<h1 align="left">Hi 👋, I'm Vasa</h1>
 <h3 align="left">I'm Vasilije Pleskonjic a Full Stack Web Developer and Computer Hardware Technician. I'm very passionate about computers and technology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasaofficial" alt="vasaofficial" /></a> </p>
