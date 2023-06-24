@@ -1,11 +1,18 @@
-<h1 align="left">Hi 👋, I'm Vasa</h1>
-<h3 align="left">I'm Vasilije Pleskonjic a Full Stack Web Developer and Computer Hardware Technician. I'm very passionate about computers and technology.</h3>
+<h1 align="left">Hey there👋</h1>
+<h3 align="left">I'm Vasa, a Web Developer and Computer Hardware Technician based in Serbia.</h3>
+<br>  
+<p align="left">
+Coding nice UIs is what I love. I started self-learning in 2022 and it has now become one of the things I enjoy doing the most! I mostly do frontend work, but I also like toying around with everything from design to backend.
+</p>
+<p align="left">
+Learning is fun, so I might as well do it as much as possible!
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasaofficial" alt="vasaofficial" /></a> </p>
 
 - 🔭 I’m currently working on [Earth Sensor](https://www.earthsensor.com/)
 
-- 🌱 I’m currently learning **React, Node.js, PHP**
+- 🌱 I’m currently learning **Node.js, PHP**
 
 - 👨‍💻 All of my projects are available at [www.vasaofficial.com](www.vasaofficial.com)
 
