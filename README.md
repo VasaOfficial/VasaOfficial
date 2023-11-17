@@ -12,7 +12,7 @@ Learning is fun, so I might as well do it as much as possible!
 
 - 🔭 I’m currently working on [Earth Sensor](https://www.earthsensor.com/)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **NODE.js**
 
 - 👨‍💻 All of my projects are available at [www.vasaofficial.com](www.vasaofficial.com)
 
