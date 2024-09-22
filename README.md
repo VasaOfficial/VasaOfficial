@@ -10,7 +10,7 @@ Learning is fun, so I might as well do it as much as possible!
 
 - 🌱 I’m currently improving my knowledge on **AWS, Terraform, K8 and Python**
 
-- 👨‍💻 All of my projects are available at [www.vasaofficial.com](www.vasaofficial.com)
+- 👨‍💻 My portfolio website [www.vasaofficial.com](https://vasilije-pleskonjic-portfolio.vercel.app/)
 
 - 📫 How to reach me **vasapofficial@gmail.com**
 
