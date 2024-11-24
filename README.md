@@ -18,7 +18,7 @@ Learning is fun, so I might as well do it as much as possible!
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ubuntu,aws,docker,git,githubactions,jenkins,kubernetes,nextjs,nodejs,postgres,python,react,terraform,typescript,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ubuntu,aws,docker,git,githubactions,ansible,grafana,prometheus,jenkins,kubernetes,nextjs,nodejs,postgres,python,react,terraform,typescript,vim)](https://skillicons.dev)
 
 <p align="left"> 
 </p>
